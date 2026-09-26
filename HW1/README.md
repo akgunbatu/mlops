@@ -1,0 +1,1 @@
+In Question 1, the model uses linear regression from scikit-learn library. The new version has two x variables (x3, and x4) that has the best fit, while the previous version used only used one variable and had a much lower mse and r2 score. 
